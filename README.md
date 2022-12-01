@@ -142,20 +142,19 @@ int main(void)
 ```
 
 
-### Result :
-Interfacing a digital output with ARM microcontroller is executed 
-
 ### Output screen shots :
 
 ### LED off state:
 
-![Uploading ledoff.png…]()
+
+![ledoff](https://user-images.githubusercontent.com/95066409/205078902-649f9d61-d6ab-4a71-adfc-f677c92dd6ee.png)
 
 ### LED on state
 
-![Uploading ledon.png…]()
 
-## Result :
+![ledon](https://user-images.githubusercontent.com/95066409/205078973-4cd309f9-7807-4d20-b157-2168a3ee82cf.png)
+
+### Result :
 
 Interfacing a digital output with ARM microcontroller is executed.
 

@@ -154,7 +154,7 @@ int main(void)
 
 ![ledon](https://user-images.githubusercontent.com/95066409/205078973-4cd309f9-7807-4d20-b157-2168a3ee82cf.png)
 
-### Result :
+## Result :
 
 Interfacing a digital output with ARM microcontroller is executed.
 
